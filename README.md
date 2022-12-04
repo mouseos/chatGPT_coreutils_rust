@@ -1,5 +1,4 @@
 # chatGPT_coreutils_rust
-coreutils written by rust made by chatGPT
 
 chatGPTに以下の文章を入力してだけで作ったrust製coreutils
 ```
